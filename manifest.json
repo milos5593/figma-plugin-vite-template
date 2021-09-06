@@ -1,6 +1,6 @@
 {
-    "name": "**Plugin Template**",
-    "id": "1016683232038518843",
+    "name": "",
+    "id": "",
     "api": "1.0.0",
     "main": "dist/code.js",
     "ui": "dist/index.html",
